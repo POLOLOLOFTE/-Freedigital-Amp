@@ -16,7 +16,7 @@
 | [ESP32-DevC](https://www.amazon.it/ESP32-DevC-sviluppo-ESP-WM-32D-Bluetooth-compatibile/dp/B0GX17TY9T/ref=sr_1_5_sspa?__mk_it_IT=ÅMÅŽÕÑ&crid=34I2RJQG7CJ5X&dib=eyJ2IjoiMSJ9.p-U_Q8DBaUu2i2dBPsrxypDdMqRxBcGSsHbXC6VIfwkGLnphmxfjtG25aQREPCGyXiFA7u6f-KPS5BCf2A60QdwYK9aD5RMp4rqWnH-zd05KcmUgZ8bdJkTSe0iN3kueP91THrL3L-E9lxhV9rUceaGFUJ_nxtZ6SMj4WA6834_A07gwefTHimsilHhqzgS9XSkcSHHVRePjWUNlZ4_G01ry7DGIDwjGbM56lEZO9TjDL8fiGfUTiljW5o4pxZ-1989nhkbQ9_y2c2Xd_zEnF2-avwFmyTElipQ0CUr-rMc.UCgut9_Gq7dhID4iPVVjgNuEdZ8Ysv88eji4KHh5Nu0&dib_tag=se&keywords=esp32&qid=1791384292&sprefix=esp32%2Caps%2C197&sr=8-5-spons&aref=UxuP7PuRVt&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | Debugging | 1 | $22.00 | $22.00 | [Amazon](https://www.amazon.it/ESP32-DevC-sviluppo-ESP-WM-32D-Bluetooth-compatibile/dp/B0GX17TY9T/ref=sr_1_5_sspa?__mk_it_IT=ÅMÅŽÕÑ&crid=34I2RJQG7CJ5X&dib=eyJ2IjoiMSJ9.p-U_Q8DBaUu2i2dBPsrxypDdMqRxBcGSsHbXC6VIfwkGLnphmxfjtG25aQREPCGyXiFA7u6f-KPS5BCf2A60QdwYK9aD5RMp4rqWnH-zd05KcmUgZ8bdJkTSe0iN3kueP91THrL3L-E9lxhV9rUceaGFUJ_nxtZ6SMj4WA6834_A07gwefTHimsilHhqzgS9XSkcSHHVRePjWUNlZ4_G01ry7DGIDwjGbM56lEZO9TjDL8fiGfUTiljW5o4pxZ-1989nhkbQ9_y2c2Xd_zEnF2-avwFmyTElipQ0CUr-rMc.UCgut9_Gq7dhID4iPVVjgNuEdZ8Ysv88eji4KHh5Nu0&dib_tag=se&keywords=esp32&qid=1791384292&sprefix=esp32%2Caps%2C197&sr=8-5-spons&aref=UxuP7PuRVt&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) |
 | [main pcb](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=99.5&stencilLength=75.5&stencilCounts=5&plateType=1) | the board that connects everything | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=99.5&stencilLength=75.5&stencilCounts=5&plateType=1) |
 | **Parts subtotal** | — | — | — | **$32.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$32.00** | — |
+| **Tax & shipping** | — | — | — | **$7.61** | — |
+| **Total** | — | — | — | **$39.61** | — |
 
-$33.00 left of the tier's funding.
+$25.39 left of the tier's funding.
