@@ -1,1 +1,24 @@
 
+r1 22.000 Ohm
+r2 680 Ohm
+r3 22.000 Ohm
+
+c1 10 microFarad at least 25v
+c2 10 microFarad at least 25v
+c3 10 microFarad at least 25v
+c4 unpolorized 100 microFarad
+
+l1 1–2 microHenry (you can do that by buying a resistor (10ohm) and coil around 12 times copper wire and connect the apex to the pin of the resistor)
+
+3* potenziometers you can use the one with 10.000 Ohm or 47.000 Ohm
+
+1x2 scew connector
+
+1x5 cerw connector (for the debugging port)
+
+3* 2 Way Speaker Terminal Block
+
+a 3.5mm jack connector (the wide one without switch)
+
+3* TDA2030 (an buy them some heatsink (max height 7mm))
+
