@@ -3,12 +3,24 @@
 a full analogic amplificator 2.1, built around tda2030. very Open Source!!! so everyone can make it like they want!!
 For Half Life (Hackclub)
 
-i'm using The tda2030 as the main amplificator element, 2 for right and lest and the third for the subwoofer by join the right and left signal, put it in the tda2030 and pass the mono audio from a coil 50hz
+the audio from a standard jack comes in and it goes trough some componets to introduce it to 3 tda2030 (the main amplificator process) they are three so one is for the right signal one if for the left and the third is for the subwoofer.
+it's designed on a small foarm 100x100mm custom pcb and the tda2030 need passive cooling even if they have a thermal shut down emergency mode.
 
-<img width="946" height="568" alt="Screenshot 2026-10-06 170610" src="https://github.com/user-attachments/assets/e018c6de-08e2-4c0f-8f3e-59a01ad89153" />
-<img width="1021" height="233" alt="Screenshot 2026-10-06 163401" src="https://github.com/user-attachments/assets/3d673fcf-09ea-41ab-b798-2f2f3ba9fe1a" />
-<img width="828" height="627" alt="Screenshot 2026-10-07 172732" src="https://github.com/user-attachments/assets/3d863e30-b945-4b28-9e3e-b74cd4d63332" />
-<img width="864" height="451" alt="Screenshot 2026-10-07 172724" src="https://github.com/user-attachments/assets/42b7ac20-d8ab-488f-b572-2f6481cc5a91" />
+INPUT:
+it work with one jack from a phone/computer and 16 volt from a powersupply aon 3-4 amps.
 
+OUTPUT:
+there are three screw clamp (other than the audio) or spring clamp on the rear where you put the positive and negative of the speakers... remember the speakers shouldn't more than 50w 8ohms each
 
+SETTINGS:
+there are three potenziometers for each tda2030 so you can control endidually the left, right and subwoofer audio
+
+Extra Note:
+The pcb isn'perfect there can be some static noise from the circuit and it's not made for staying 24/7 powered at 100% of volume
+
+                                        **%%%%%%%%%**
+                                      **% IMPORTANT %**
+                                        **%%%%%%%%%**
+The pcb is UNTESTED so it can blew up for something wrong do NOT fully thrust the system so much
+I am NOT rensponsible if it blow up CAPACITORS ot TDA2030s
 
