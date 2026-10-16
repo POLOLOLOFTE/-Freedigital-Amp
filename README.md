@@ -21,6 +21,7 @@ The pcb isn'perfect there can be some static noise from the circuit and it's not
    **%%%%%%%%%**
   **%IMPORTANT%**
    **%%%%%%%%%**
+   
  The pcb is UNTESTED so it can blew up for something wrong do NOT fully thrust the system so much
  I am NOT rensponsible if it blow up CAPACITORS ot TDA2030s
 
