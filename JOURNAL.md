@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-10T17:38:34.621Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvebley005201rvz2d1v6l7). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > a full analogic amplificator 2.1, built around tda2030. very Open Source!!! so everyone can make it like they want!!
 
