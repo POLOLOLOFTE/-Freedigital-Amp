@@ -19,9 +19,14 @@ Extra Note:
 The pcb isn'perfect there can be some static noise from the circuit and it's not made for staying 24/7 powered at 100% of volume
 
    **%%%%%%%%%**
-  **%IMPORTANT%**
+  **IMPORTANT**
    **%%%%%%%%%**
    
  The pcb is UNTESTED so it can blew up for something wrong do NOT fully thrust the system so much
  I am NOT rensponsible if it blow up CAPACITORS ot TDA2030s
 
+<img width="567" height="557" alt="Screenshot 2026-10-16 181143" src="https://github.com/user-attachments/assets/ffa974b5-e071-4e65-8fea-99d9b6d0ac7d" />
+
+<img width="562" height="546" alt="Screenshot 2026-10-16 180414" src="https://github.com/user-attachments/assets/37fb3b2d-e78e-40dc-a61d-dd7f1cc6056d" />
+
+<img width="1074" height="875" alt="Screenshot 2026-10-11 110512" src="https://github.com/user-attachments/assets/cf056830-d130-4135-bc88-f4818dc7755c" />
