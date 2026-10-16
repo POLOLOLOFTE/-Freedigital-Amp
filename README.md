@@ -18,9 +18,9 @@ there are three potenziometers for each tda2030 so you can control endidually th
 Extra Note:
 The pcb isn'perfect there can be some static noise from the circuit and it's not made for staying 24/7 powered at 100% of volume
 
-                                        **%%%%%%%%%**
-                                      **% IMPORTANT %**
-                                        **%%%%%%%%%**
-The pcb is UNTESTED so it can blew up for something wrong do NOT fully thrust the system so much
-I am NOT rensponsible if it blow up CAPACITORS ot TDA2030s
+   **%%%%%%%%%**
+  **%IMPORTANT%**
+   **%%%%%%%%%**
+ The pcb is UNTESTED so it can blew up for something wrong do NOT fully thrust the system so much
+ I am NOT rensponsible if it blow up CAPACITORS ot TDA2030s
 
