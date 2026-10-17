@@ -27,3 +27,5 @@ J1	1	3.5mm audio jack	input
 J2, J3, J4	3	2-pin terminal block	speakers
 J5	1	2-pin terminal block	16V power input
 J6	1	5-pin terminal block	test points
+
+then you need the custom pcb: you find it in the extra folder
