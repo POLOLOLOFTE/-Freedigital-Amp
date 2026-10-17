@@ -8,3 +8,34 @@ potenziometer,1,Amazon,$4.49,$4.49,https://www.amazon.it/HaiMa-Potenziometro-Rot
 heatsink,1,Amazon,$8.94,$8.94,https://www.amazon.it/VooGenzek-Dissipatore-dissipatore-Transistor-Elettronici/dp/B0CSJVJ4CG/ref=sr_1_2_sspa?__mk_it_IT=ÅMÅŽÕÑ&crid=3KCNKZ0ORA9M6&dib=eyJ2IjoiMSJ9.37dLM3qVLjWJ0LJuhE51G1bY_AsXZyxT6_2QmJLomT4MbLJpPSReXDh-UsWvOGNMCuSXF9TExjI3L5QyV71Z4dx7ybg5XmDzT9PqELBuSvCp62QNfiRSVXKjY-8EvsUI36huHLuvTOk65uKlvemtfPv6oHRwXurIjTaHKyAFRep0GMhOxMkJzH2pmNIqrFWfWlpby35Quiiz_3Ym4aJvyFvzs5ysG3-Zgp_bWGig2nPRDnLqSeK_L0zZfmOLMO2rwcs_x7dHml7zlooVBpNGJaMHANEJuEqyRdglcE3Hnz0.45noNc_Gj10wdLNdDxMbsSXCkEQIqbDalgupsIkTb1c&dib_tag=se&keywords=heat%2Bsink&qid=1791562032&sprefix=heat%2Bsink%2Caps%2C282&sr=8-2-spons&aref=dLz3RGohej&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 unpolarized capacitor,1,Amazon,$10.07,$10.07,https://www.amazon.it/BOJACK-Condensatori-Condensatore-dielettrico-confezione/dp/B07Y7PHY91/ref=sxin_10_pa_sp_search_thematic_sspa?__mk_it_IT=ÅMÅŽÕÑ&content-id=amzn1.sym.43cf52d1-5f0f-40a1-83a1-485f5bb968ae%3Aamzn1.sym.43cf52d1-5f0f-40a1-83a1-485f5bb968ae&crid=14LD2IC5EKU0F&cv_ct_cx=100nf+capacitor+104&keywords=100nf+capacitor+104&pd_rd_i=B07Y7PHY91&pd_rd_r=90c15f2a-174b-4cc6-95d2-a098f61a475e&pd_rd_w=RMZV1&pd_rd_wg=iSw53&pf_rd_p=43cf52d1-5f0f-40a1-83a1-485f5bb968ae&pf_rd_r=ECVVR9EFNJV39YJ5SBG8&qid=1791657854&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=100nf+capacitor+104%2Caps%2C120&sr=1-2-ca22f3c3-0606-4173-afab-fb32ddc038f9-spons&aref=F7hobVOVQL&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1
 Estimated total shipping,1,,,$7.61,
+
+
+accual materia that you need:
+
+U1, U2, U3	3	TDA2030	
+
+D1–D6	6	1N4001	
+
+R1, R2	2	10k	sub low-pass filter
+R4, R5, R6, R7, R18, R19	6	100k	8V bias divider
+R14, R15, R16	3	22k	feedback
+R8, R9, R10	3	680Ω	pin 2 network
+R11, R12, R13	3	1Ω	output stability network (Boucherot)
+R17	1	10Ω 5W	in parallel with L1
+
+L1	1	1–2µH	turns wound on R17
+
+C1, C2, C3	3	10µF 25V	input coupling
+C5, C7, C8	3	22µF 25V	pin 2 network
+C4, C15, C16	3	2200µF 25V	output coupling
+C6	1	2200µF 25V	power supply reservoir
+C9, C10, C11	3	100nF	output stability network (Boucherot)
+C12, C13, C14	3	100nF	supply decoupling at pin 5
+C17	1	220nF	sub filter
+
+RV1, RV2, RV3	3	10k potentiometer	volume
+
+J1	1	3.5mm audio jack	input
+J2, J3, J4	3	2-pin terminal block	speakers
+J5	1	2-pin terminal block	16V power input
+J6	1	5-pin terminal block	test points
