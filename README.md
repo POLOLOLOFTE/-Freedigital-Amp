@@ -32,7 +32,7 @@ The pcb isn'perfect there can be some static noise from the circuit and it's not
 <img width="1074" height="875" alt="Screenshot 2026-10-11 110512" src="https://github.com/user-attachments/assets/cf056830-d130-4135-bc88-f4818dc7755c" />
 
 
-This is the material that you accually need to make it:
+This is the material that you accually need to make it(half life operator please go to the last words🫡):
 
 U1, U2, U3		TDA2030	
   
@@ -84,4 +84,8 @@ J6		5-pin terminal block	test points
 
 then you need the custom pcb: you find it in the extra folder
 
-and remember about the speakers 2 standard and 1 subwoofer: max 4ohms 50w
+speakers 2 standard and 1 subwoofer: !MAX! 4ohms 50w
+
+and you probably need some heat sink: werever you have to stay cheap
+
+(thoose are the components that **YOU** need to have, in my BOM.csv i got **MINE** because i got some parts that mach perfeclly!(!!!i'm saying it to you half life operator!!!))
