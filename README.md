@@ -18,12 +18,12 @@ there are three screw clamp (other than the audio) or spring clamp on the rear w
 ## SETTINGS:
 there are three potenziometers for each tda2030 so you can control endidually the left, right and subwoofer audio
 
-## Extra Note:
+### Extra Note:
 The pcb isn'perfect there can be some static noise from the circuit and it's not made for staying 24/7 powered at 100% of volume
 
-   **%%%%%%%%%**
-  **IMPORTANT**
-   **%%%%%%%%%**
+
+ # **IMPORTANT**
+
    
  The pcb is UNTESTED so it can blew up for something wrong do NOT fully thrust the system so much
  I am NOT rensponsible if it blow up CAPACITORS ot TDA2030s
