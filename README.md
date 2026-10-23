@@ -1,4 +1,4 @@
-# -Freedigital-Amp
+[Hardware Bill of Materials template - Sheet1.csv](https://github.com/user-attachments/files/33889490/Hardware.Bill.of.Materials.template.-.Sheet1.csv)# -Freedigital-Amp
 
 a full analogic amplificator 2.1, built around tda2030. very Open Source!!! so everyone can make it like they want!!
 For Half Life (Hackclub)
@@ -33,6 +33,27 @@ The pcb isn'perfect there can be some static noise from the circuit and it's not
 
 
 This is the material that you accually need to make it(half life operator please go to the last words🫡):
+[Uploading Hardware BiItem Name,Qty,Price (total) (USD),Item link,Notes
+example item,1,$6.70,https://example.com/example_item,This is an example part! Add things to note here.
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Total Price (USD):,$6.70,,,ll of Materials template - Sheet1.csv…]()
 
 U1, U2, U3		TDA2030	
   
