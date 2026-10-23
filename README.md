@@ -1,21 +1,24 @@
-[Hardware Bill of Materials template - Sheet1.csv](https://github.com/user-attachments/files/33889490/Hardware.Bill.of.Materials.template.-.Sheet1.csv)# -Freedigital-Amp
+# -Freedigital-Amp
 
 a full analogic amplificator 2.1, built around tda2030. very Open Source!!! so everyone can make it like they want!!
 For Half Life (Hackclub)
 
+i have do it because i love music and i got some "great" speakers recycled from the trash, and i would rather make my own amplificator than let some multibilionare company do it for me and not get the best... btw i don't think that mine is better than some product made from years of reserch. but it's my amp! and all the work that i put it on it's all worth it!
+
 the audio from a standard jack comes in and it goes trough some componets to introduce it to 3 tda2030 (the main amplificator process) they are three so one is for the right signal one if for the left and the third is for the subwoofer.
 it's designed on a small foarm 100x100mm custom pcb and the tda2030 need passive cooling even if they have a thermal shut down emergency mode.
+(the wireing digramm is nota thing to explain on a simple text(it's harder with my broken english) so this is how i'm going to explain it, sorry)
 
-INPUT:
+## INPUT:
 it work with one jack from a phone/computer and 16 volt from a powersupply aon 3-4 amps.
 
-OUTPUT:
+## OUTPUT:
 there are three screw clamp (other than the audio) or spring clamp on the rear where you put the positive and negative of the speakers... remember the speakers shouldn't more than 50w 8ohms each
 
-SETTINGS:
+## SETTINGS:
 there are three potenziometers for each tda2030 so you can control endidually the left, right and subwoofer audio
 
-Extra Note:
+## Extra Note:
 The pcb isn'perfect there can be some static noise from the circuit and it's not made for staying 24/7 powered at 100% of volume
 
    **%%%%%%%%%**
@@ -32,81 +35,60 @@ The pcb isn'perfect there can be some static noise from the circuit and it's not
 <img width="1074" height="875" alt="Screenshot 2026-10-11 110512" src="https://github.com/user-attachments/assets/cf056830-d130-4135-bc88-f4818dc7755c" />
 
 
-This is the material that you accually need to make it(half life operator please go to the last words🫡):
-[Uploading Hardware BiItem Name,Qty,Price (total) (USD),Item link,Notes
-example item,1,$6.70,https://example.com/example_item,This is an example part! Add things to note here.
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-Total Price (USD):,$6.70,,,ll of Materials template - Sheet1.csv…]()
+## This is the material that you accually need to make it(half life operator please go to the last words🫡):
 
-U1, U2, U3		TDA2030	
+-U1, U2, U3		TDA2030	
   
-D1–D6		1N4001	(they are 6 and you can put similar diods in it)
+-D1–D6		1N4001	(they are 6 and you can put similar diods in it)
   
-R1, R2		10k	sub low-pass filter
+-R1, R2		10k	sub low-pass filter
 
-R4, R5, R6, R7, R18, R19		100k	8V bias divider
+-R4, R5, R6, R7, R18, R19		100k	8V bias divider
 
-R14, R15, R16		22k	feedback
+-R14, R15, R16		22k	feedback
 
-R8, R9, R10		680Ω	pin 2 network
+-R8, R9, R10		680Ω	pin 2 network
 
-R11, R12, R13		1Ω	output stability network
-
-
-
-R17		10Ω 5W	in parallel with L1
-
-L1  	1–2µH	turns wound on R17
-
-(for cost reason thoose two are thogheter... like you connect the resistor and then you run 10-12 spirals of copper wire)
+-R11, R12, R13		1Ω	output stability network
 
 
 
-C1, C2, C3		10µF 25V	input coupling
+-R17		10Ω 5W	in parallel with L1
 
-C5, C7, C8		22µF 25V	pin 2 network
+-L1  	1–2µH	turns wound on R17
 
-C4, C15, C16		2200µF 25V	output coupling
+-(for cost reason thoose two are thogheter... like you connect the resistor and then you run 10-12 spirals of copper wire)
 
-C6	1	2200µF 25V	power supply reservoir
 
-C9, C10, C11		100nF	output stability network
 
-C12, C13, C14		100nF	supply decoupling at pin 5
+-C1, C2, C3		10µF 25V	input coupling
 
-C17		220nF	sub filter
+-C5, C7, C8		22µF 25V	pin 2 network
 
-RV1, RV2, RV3		10k potentiometer	volume-for each speaker
+-C4, C15, C16		2200µF 25V	output coupling
 
-J1		3.5mm audio jack	input
+-C6	1	2200µF 25V	power supply reservoir
 
-J2, J3, J4		2-pin terminal block speakers
+-C9, C10, C11		100nF	output stability network
 
-J5		2-pin terminal block	16V power input
+-C12, C13, C14		100nF	supply decoupling at pin 5
 
-J6		5-pin terminal block	test points
+-C17		220nF	sub filter
 
-then you need the custom pcb: you find it in the extra folder
+-RV1, RV2, RV3		10k potentiometer	volume-for each speaker
 
-speakers 2 standard and 1 subwoofer: !MAX! 4ohms 50w
+-J1		3.5mm audio jack	input
 
-and you probably need some heat sink: werever you have to stay cheap
+-J2, J3, J4		2-pin terminal block speakers
+
+-J5		2-pin terminal block	16V power input
+
+-J6		5-pin terminal block	test points
+
+-then you need the custom pcb: you find it in the extra folder
+
+-speakers 2 standard and 1 subwoofer: !MAX! 4ohms 50w
+
+-and you probably need some heat sink: werever you have to stay cheap
 
 (thoose are the components that **YOU** need to have, in my BOM.csv i got **MINE** because i got some parts that mach perfeclly!(!!!i'm saying it to you half life operator!!!))
