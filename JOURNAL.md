@@ -30,25 +30,25 @@
 it's not a preatty complex pcb but it has several extra components, so when the audio enters from the jack it goes to the first two tda2030 and  as simple as it looks it goes to the two sound boxes. for the sub the play is different, because the audio gets mixed and than it goes directally in the tda2030 (till here everithing is fine) after this the processed audio is sent in a coil that let trough only low frequencess sounds (there are other plays but it's too hard to explain them by text and my english is bad like a unpolorized capacitor that smooth out the output of the subwoofer).
 the system uses external power to power itself (12-32V)if my calculation aren't wrong
 
-![Screenshot 2026-10-01 183447](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/edf5a948c1a857a4b2c7c115b475ae1116286d210e6c875e63faf02c42066852.png)
+![Screenshot 2026-10-01 183447](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/edf5a948c1a857a4b2c7c115b475ae1116286d210e6c875e63faf02c42066852.png)
 
-![Screenshot 2026-10-02 152423](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d6a82911cfe493a14edd7cb06a3cc067bfd4ed4987c5518a29d8e2c6d6828a7b.png)
+![Screenshot 2026-10-02 152423](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d6a82911cfe493a14edd7cb06a3cc067bfd4ed4987c5518a29d8e2c6d6828a7b.png)
 
-![Screenshot 2026-10-02 152620](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/7d7689412889bac620257e9fd53055f25cb60a87f55f5a4237e9eabebc8949dc.png)
+![Screenshot 2026-10-02 152620](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/7d7689412889bac620257e9fd53055f25cb60a87f55f5a4237e9eabebc8949dc.png)
 
-![Screenshot 2026-10-05 174427](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/7cc9d968525a444a5daf96b5875b5dff9f187e321807728942598c5f330d6cc6.png)
+![Screenshot 2026-10-05 174427](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/7cc9d968525a444a5daf96b5875b5dff9f187e321807728942598c5f330d6cc6.png)
 
-![Screenshot 2026-10-05 174546](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/5e285e79484f25c1a4ca5e5f6fd7bd584b8a427bfb597e70a299756fa3bb8150.png)
+![Screenshot 2026-10-05 174546](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/5e285e79484f25c1a4ca5e5f6fd7bd584b8a427bfb597e70a299756fa3bb8150.png)
 
-![Screenshot 2026-10-05 180122](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/e074b1c5f5afa408f9578401a13fae65685db3d3d58d4378e08f782ed43ba9cb.png)
+![Screenshot 2026-10-05 180122](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/e074b1c5f5afa408f9578401a13fae65685db3d3d58d4378e08f782ed43ba9cb.png)
 
-![Screenshot 2026-10-05 184510](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/43de70e90d9aaafd0e51bd6fa28273b89f3a79d4470fd011b764672ac5364248.png)
+![Screenshot 2026-10-05 184510](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/43de70e90d9aaafd0e51bd6fa28273b89f3a79d4470fd011b764672ac5364248.png)
 
-![Screenshot 2026-10-05 184607](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/899aad34f352ccf2f5da3ac5942308ebefbfa4bc28f2d6d818a8ca8cece7ed05.png)
+![Screenshot 2026-10-05 184607](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/899aad34f352ccf2f5da3ac5942308ebefbfa4bc28f2d6d818a8ca8cece7ed05.png)
 
-![Screenshot 2026-10-05 184643](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/87b9bf349d81a233aa153364861c0b15b2389868adacdcab48c49bd436fefe6f.png)
+![Screenshot 2026-10-05 184643](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/87b9bf349d81a233aa153364861c0b15b2389868adacdcab48c49bd436fefe6f.png)
 
-![Screenshot 2026-10-05 184655](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/ab5eddb7826daee9e712030eeadf9afc088be29d346f5b257c9b1ff3557fffa9.png)
+![Screenshot 2026-10-05 184655](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/ab5eddb7826daee9e712030eeadf9afc088be29d346f5b257c9b1ff3557fffa9.png)
 
 ### 2026-10-06 – hi, this time after getting all set up in the pcb i figure that i had many doubts, so i spend a lot of time resercing for the power input, the resistence of components, the power of the capacitors and
 
@@ -57,17 +57,17 @@ the system uses external power to power itself (12-32V)if my calculation aren't 
 hi, this time after getting all set up in the pcb i figure that i had many doubts, so i spend a lot of time resercing for the power input, the resistence of components, the power of the capacitors and other thing like that.
 after that i added a debug connector for the esp23 and i think i'm going to need one to handle multiple analog signals and put them on my pc.
 
-![Screenshot 2026-10-06 170610](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/599020e0bc63eba115026b81e30c9a26c72e3ae6af0596c0638c0fb41d499213.png)
+![Screenshot 2026-10-06 170610](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/599020e0bc63eba115026b81e30c9a26c72e3ae6af0596c0638c0fb41d499213.png)
 
 this reserch wasen't done all in my main computer but i spend a lot of my free time serching on my smartphone reading documents:
 
-![Screenshot 2026-10-06 163300](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d7536950d58b7133f3a5f1779327fbaecff4a402327fca6d58675c33e909222b.png)
+![Screenshot 2026-10-06 163300](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d7536950d58b7133f3a5f1779327fbaecff4a402327fca6d58675c33e909222b.png)
 
-![Screenshot 2026-10-06 163401](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/4bef1e88455cfb1441435c89012b68e42f4b71a603e9910f2472a3c93dbece3e.png)
+![Screenshot 2026-10-06 163401](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/4bef1e88455cfb1441435c89012b68e42f4b71a603e9910f2472a3c93dbece3e.png)
 
-![Screenshot 2026-10-06 164055](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d6f7e1ca782b2560c9058be398fe4545d6100ccfe994a6a2280408bae9be60ba.png)
+![Screenshot 2026-10-06 164055](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d6f7e1ca782b2560c9058be398fe4545d6100ccfe994a6a2280408bae9be60ba.png)
 
-![Screenshot 2026-10-06 164110](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/178a3355614e9700245c4fb8deeca16d0be2c07d9eb91ef016f9ed96afa4dd07.png)
+![Screenshot 2026-10-06 164110](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/178a3355614e9700245c4fb8deeca16d0be2c07d9eb91ef016f9ed96afa4dd07.png)
 
 ### 2026-10-07 – This time i do a lot of things to make my life simpler: like naming the pcb with some mark to remember me where things are and tide up a lot of nametag over componets.
 
@@ -76,16 +76,16 @@ this reserch wasen't done all in my main computer but i spend a lot of my free t
 This time i do a lot of things to make my life simpler: like naming the pcb with some mark to remember me where things are and tide up a lot of nametag over componets.
 i even wired up the debugging port (it's a screw terminal 1x5) and i reserch what to buy (we are nearly there
 
-![Screenshot 2026-10-06 170610](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/599020e0bc63eba115026b81e30c9a26c72e3ae6af0596c0638c0fb41d499213.png)
+![Screenshot 2026-10-06 170610](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/599020e0bc63eba115026b81e30c9a26c72e3ae6af0596c0638c0fb41d499213.png)
 
-![Screenshot 2026-10-07 172724](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/c6ca29861c3a73ebf49463b7dd3ec6783f598403a179d6e7c75d876b281e99aa.png)
+![Screenshot 2026-10-07 172724](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/c6ca29861c3a73ebf49463b7dd3ec6783f598403a179d6e7c75d876b281e99aa.png)
 
-![Screenshot 2026-10-07 172732](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/ea5ad224530fac01761b693e86b897dd921ad625b1f58911978936fbac6232f9.png)
+![Screenshot 2026-10-07 172732](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/ea5ad224530fac01761b693e86b897dd921ad625b1f58911978936fbac6232f9.png)
 
 )
 i even updated my github #freedigital amp with the new files and other life changing things
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/0fa602c561e0d4e9a4821c4f9dda1b2b16b5908dd9108d3d606c9c99eb4079a0.png)
+![image](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/0fa602c561e0d4e9a4821c4f9dda1b2b16b5908dd9108d3d606c9c99eb4079a0.png)
 
 ### 2026-10-08 – The prototype is nearly done it just need testing,
 
@@ -95,11 +95,11 @@ The prototype is nearly done it just need testing,
 a lot of testing: it will be done when i will get the parts.
 i added a port for debugging but it's very powerfull because i'm thinking about the other project that i will do in this hack club will be correlated to this... i'm thinking about a sintetiser (idk if the word is spelt correct and i'm too lasy to google it) to make it work like if they where a single system 😁 pretty exiting right?
 
-![immagine_2026-10-08_164303069](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/00730876ec93a0d8f24a76ea7bce060e11b10c6102c5303303cc479204431ffa.png)
+![immagine_2026-10-08_164303069](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/00730876ec93a0d8f24a76ea7bce060e11b10c6102c5303303cc479204431ffa.png)
 (i have added the holes for a thing that will be cool as hell)
 
 here is a top veiw:
-![immagine_2026-10-08_164506543](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/42633ed63aaa06a6f8928cdedb4ff0ed51cb40dc346a5dd082933595a2d627d6.png)
+![immagine_2026-10-08_164506543](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/42633ed63aaa06a6f8928cdedb4ff0ed51cb40dc346a5dd082933595a2d627d6.png)
 
 ### 2026-10-09 – this part it's not an ordinary part of my work, because in this time i searched a lot, but i mean a lot of motherboards and unsorted components that i had: not only at my home but i searched around a
 
@@ -109,36 +109,36 @@ this part it's not an ordinary part of my work, because in this time i searched 
 
 for the resitor i think i'm going with something like this:
 
-![Screenshot 2026-10-09 152009](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/efe5ca4a61bc205de5a4c35cfb5c8e06ae1355284c1a988c798cecc0be7738f8.png)
+![Screenshot 2026-10-09 152009](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/efe5ca4a61bc205de5a4c35cfb5c8e06ae1355284c1a988c798cecc0be7738f8.png)
 
 or this:
 
-![immagine_2026-10-09_152351436](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d9a092afbd4b9d3501567c28e57973aea96dbf0dc964993422e62ef5feab0343.png)
+![immagine_2026-10-09_152351436](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d9a092afbd4b9d3501567c28e57973aea96dbf0dc964993422e62ef5feab0343.png)
 
 it depends😭🥀...
 i even updated a bit the pcb (only with some better prints)
 
-![immagine_2026-10-09_152631316](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/036d045d476498f6ad9ce9edda2d5c26b65b6ed6cc199dca795d6c6818966d04.png)
+![immagine_2026-10-09_152631316](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/036d045d476498f6ad9ce9edda2d5c26b65b6ed6cc199dca795d6c6818966d04.png)
 
 i could find this:
 
-![immagine_2026-10-09_152927753](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/9a1a1fc381f1310be6204021ef948f04c6bfd189e5b20e0ec780e46e6488c8d3.png)
+![immagine_2026-10-09_152927753](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/9a1a1fc381f1310be6204021ef948f04c6bfd189e5b20e0ec780e46e6488c8d3.png)
 
 but not this:
 
-![20261009_143522](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/19ccf7be716f8ae196420045cccb7135b591ce63e3a124918742369b351da9c6.jpg)
+![20261009_143522](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/19ccf7be716f8ae196420045cccb7135b591ce63e3a124918742369b351da9c6.jpg)
 
 i'm still working on:
-![Screenshot 2026-10-05 184607](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/899aad34f352ccf2f5da3ac5942308ebefbfa4bc28f2d6d818a8ca8cece7ed05.png)
+![Screenshot 2026-10-05 184607](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/899aad34f352ccf2f5da3ac5942308ebefbfa4bc28f2d6d818a8ca8cece7ed05.png)
 
 but i found:
-![20261009_143539](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/540bf12bab0e16da15426f6e55ef00d1ce1ac05a9e30fd05f7cc9bd97f3ebfb9.jpg)
+![20261009_143539](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/540bf12bab0e16da15426f6e55ef00d1ce1ac05a9e30fd05f7cc9bd97f3ebfb9.jpg)
 
 the next part will be trying to find some sort of this:
 
-![immagine_2026-10-09_174617461](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/ab0cb1604d38454e2d07f2e53a43142abde4d8b6d7395a2e3188cf9718a2bc99.png)
+![immagine_2026-10-09_174617461](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/ab0cb1604d38454e2d07f2e53a43142abde4d8b6d7395a2e3188cf9718a2bc99.png)
 
-![Screenshot 2026-10-09 174457](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/15c5fc006fb8efee8af77eaba08ab5b23132afc60c4787098b920c023176c071.png)
+![Screenshot 2026-10-09 174457](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/15c5fc006fb8efee8af77eaba08ab5b23132afc60c4787098b920c023176c071.png)
 yes they are straight from google👍
 
 ### 2026-10-10 – Hi today i searched some speakers to put to the test if it works:
@@ -148,24 +148,24 @@ yes they are straight from google👍
 Hi today i searched some speakers to put to the test if it works:
 
 i found some small speakers 4ohms:
-![20261010_134228](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/deb12b541b8a1a99f81eddb95d902ca3fb7188b20de25ea05966b813579b085a.jpg)
+![20261010_134228](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/deb12b541b8a1a99f81eddb95d902ca3fb7188b20de25ea05966b813579b085a.jpg)
 
 after that i found a big speaker made by imperial:
-![20261010_134218](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/a9b87d93947b36da82ac9ac6a7249d1aca94ae3095fde3dbfcc5cd6622851753.jpg)
+![20261010_134218](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/a9b87d93947b36da82ac9ac6a7249d1aca94ae3095fde3dbfcc5cd6622851753.jpg)
 it's preatty cool not gonna lie,
 
 here it comes the fun stuff:
 
 thoose are small philips speaker:
-![20261010_134154](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/b953015f54c59c228184223eadcce98149fbe5fd0ba1377c2715e0390089765a.jpg)
+![20261010_134154](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/b953015f54c59c228184223eadcce98149fbe5fd0ba1377c2715e0390089765a.jpg)
 
 here are in pair(i haven't got this):
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/25619c28a23fe6baf6b22d531f1d41a0067d0301a1313b881804368596c28446.png)
+![image](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/25619c28a23fe6baf6b22d531f1d41a0067d0301a1313b881804368596c28446.png)
 
 and here comes the big guy:
-![20261010_134203](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/24a618c4306754d1455b7bdf8f8c78f6f257affbffe7581987fdacd8931b7547.jpg)
+![20261010_134203](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/24a618c4306754d1455b7bdf8f8c78f6f257affbffe7581987fdacd8931b7547.jpg)
 
 it's a 4ohms subwoofer (50w). in the past was a bass amp:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/e90277c5e045bed0f79675fd948d1add8ad7a43945c35d7f8b5d0b3fca8dd08c.png)
+![image](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/e90277c5e045bed0f79675fd948d1add8ad7a43945c35d7f8b5d0b3fca8dd08c.png)
 
 it wasn't this but i couldn't find it
