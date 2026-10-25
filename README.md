@@ -37,57 +37,57 @@ The pcb isn'perfect there can be some static noise from the circuit and it's not
 
 ## This is the material that you accually need to make it(half life operator please go to the last words🫡):
 
-- U1, U2, U3		TDA2030	
+- [ ] U1, U2, U3		TDA2030	
   
-- D1–D6		1N4001	(they are 6 and you can put similar diods in it)
+- [ ] D1–D6		1N4001	(they are 6 and you can put similar diods in it)
   
-- R1, R2		10k	sub low-pass filter
+- [ ] R1, R2		10k	sub low-pass filter
 
-- R4, R5, R6, R7, R18, R19		100k	8V bias divider
+- [ ] R4, R5, R6, R7, R18, R19		100k	8V bias divider
 
-- R14, R15, R16		22k	feedback
+- [ ] R14, R15, R16		22k	feedback
 
-- R8, R9, R10		680Ω	pin 2 network
+- [ ] R8, R9, R10		680Ω	pin 2 network
 
-- R11, R12, R13		1Ω	output stability network
+- [ ] R11, R12, R13		1Ω	output stability network
 
 
 
-- R17		10Ω 5W	in parallel with L1
+- [ ] R17		10Ω 5W	in parallel with L1
 
-- L1  	1–2µH	turns wound on R17
+- [ ] L1  	1–2µH	turns wound on R17
  (for cost reason thoose two are thogheter... like you connect the resistor and then you run 10-12 spirals of copper wire)
 
 
 
-- C1, C2, C3		10µF 25V	input coupling
+- [ ] C1, C2, C3		10µF 25V	input coupling
 
-- C5, C7, C8		22µF 25V	pin 2 network
+- [ ] C5, C7, C8		22µF 25V	pin 2 network
 
-- C4, C15, C16		2200µF 25V	output coupling
+- [ ] C4, C15, C16		2200µF 25V	output coupling
 
-- C6	1	2200µF 25V	power supply reservoir
+- [ ] C6	1	2200µF 25V	power supply reservoir
 
-- C9, C10, C11		100nF	output stability network
+- [ ] C9, C10, C11		100nF	output stability network
 
-- C12, C13, C14		100nF	supply decoupling at pin 5
+- [ ] C12, C13, C14		100nF	supply decoupling at pin 5
 
-- C17		220nF	sub filter
+- [ ] C17		220nF	sub filter
 
-- RV1, RV2, RV3		10k potentiometer	volume-for each speaker
+- [ ] RV1, RV2, RV3		10k potentiometer	volume-for each speaker
 
-- J1		3.5mm audio jack	input
+- [ ] J1		3.5mm audio jack	input
 
-- J2, J3, J4		2-pin terminal block speakers
+- [ ] J2, J3, J4		2-pin terminal block speakers
 
-- J5		2-pin terminal block	16V power input
+- [ ] J5		2-pin terminal block	16V power input
 
-- J6		5-pin terminal block	test points
+- [ ] J6		5-pin terminal block	test points
 
-- then you need the custom pcb: you find it in the extra folder
+- [ ] then you need the custom pcb: you find it in the extra folder
 
-- speakers 2 standard and 1 subwoofer: !MAX! 4ohms 50w
+- [ ] speakers 2 standard and 1 subwoofer: !MAX! 4ohms 50w
 
-- and you probably need some heat sink: werever you have to stay cheap
+- [ ] and you probably need some heat sink: werever you have to stay cheap
 
 (thoose are the components that **YOU** need to have, in my BOM.csv i got **MINE** because i got some parts that mach perfeclly!(!!!i'm saying it to you half life operator!!!))
