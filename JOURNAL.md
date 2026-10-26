@@ -197,3 +197,4 @@ it was hard but we came to an end i basically skipped my weekend🤣 but in the 
 ![image](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/6341cd60908f7407f09e8005487b8fb5d12cfbd65f0ea3ef39535944e800b281.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/wH48oh6IuBiVIyg8Si5h46449JHEaWef/d6287c19850bd48987ce3de72fb6e7bf3ce1f025549da982a1666993a7646ed5.png)
+Sorry I made a mistake this if for the audio diy project! Sorry
