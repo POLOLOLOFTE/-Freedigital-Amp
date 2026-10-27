@@ -73,7 +73,7 @@ as materials you need what is in the bom on the bottom on the readme:
 | Total Price (USD): | | $159.59 | | |
 
 
-here is the list for pcb-components:
+## here is the list for pcb <-> components so you don't just guess😁👍:
 
 - [ ] U1, U2, U3		TDA2030	
   
