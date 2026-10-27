@@ -41,10 +41,10 @@ The pcb isn'perfect there can be some static noise from the circuit and it's not
 | TDA2030 | 3 | $6.69 | https://www.amazon.it/-/en/gp/product/B07CJY4255/ref=ox_sc_act_title_8?smid=AXQNTRGL896M5&psc=1 | The main chip |
 | 1N4001 | 6 | $8.96 | https://www.amazon.it/AUKENIEN-Pieces-Rectifier-Electronic-Silicone/dp/B08Y8KLFWW/ref=sxin_10_pa_sp_search_thematic_sspa?content-id=amzn1.sym.f05bb22c-b10e-43e7-b840-674903c7db32%3Aamzn1.sym.f05bb22c-b10e-43e7-b840-674903c7db32&crid=2FYDE8PDXCJSS&cv_ct_cx=1n4001&keywords=1n4001&pd_rd_i=B08Y8KLFWW&pd_rd_r=f538e61c-1c49-43fd-99dc-07afb98a1078&pd_rd_w=2Y1jS&pd_rd_wg=5yTNH&pf_rd_p=f05bb22c-b10e-43e7-b840-674903c7db32&pf_rd_r=GJRGVC585KR0FBXZC48R&qid=1792769780&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=1n4001%2Caps%2C182&sr=1-2-50840d04-82cc-4adf-b6cc-9f330c77868e-spons&aref=z7QERglYFX&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1 | you can get 200 for 9 dollars |
 | resistor 10k | 2 | $15.69 | https://www.amazon.it/-/en/gp/product/B0FP51H3ML/ref=ox_sc_act_title_1?smid=A2X2IS1I8BHRL9&psc=1 | you can get all of them once |
-| resistor 100k | 6 | | | |
-| resistor 22k | 3 | | | |
-| resistor 680Ω | 3 | | | |
-| resistor 1Ω | 3 | | | |
+| resistor 100k | 6 | | | get this in a kit |
+| resistor 22k | 3 | | | get this in a kit |
+| resistor 680Ω | 3 | | | get this in a kit |
+| resistor 1Ω | 3 | | | get this in a kit |
 | resistor 10Ω 5W | 1 | $16.25 | https://www.amazon.it/-/en/Innfeeltech-Tolerance-Resistor-Projects-Experiments/dp/B0FG25S9BR/ref=sr_1_7?crid=1B0NPLK2B32TC&dib=eyJ2IjoiMSJ9.Scs8-FuewxLpGOpdGYz0p2tV7cUOCUX3GF4mUKxI1DU6NA7-bN_V4clB0l8TXbvCzyKTaMt7hNnqy144VDAkcVWwwOL5zHRgJeIZP5KMo7o2mDFh1wKYmf8kLG0Ex5gra7KmvPm2B27ffWNTpQ7EHBUOGSfsWj7aaAMh_Ib9G6LY1fFMWFBnrSwezEhFxQ-VS8OXPOCDQgXI3IvHK9Ex_7MSvVvFpufJz9n3aWbGZEp9M5V6lziDasb1AsIVlXLdFRg1TSwQ5UKuXucKiTjfUnr0hortJ1ijx7xrTfaXo9w.l0t8KEW1TYORQRVuwqhuOfhoq3YdMGw8-xbfqjIcLOk&dib_tag=se&keywords=10homs+5w+resistor&qid=1792770093&s=industrial&sprefix=10homs+5w+resisto%2Cindustrial%2C120&sr=1-7 | the ceramic one |
 | copper wire 0.8-1mm | 10-12 turns | $14.57 | https://www.amazon.it/-/en/gp/product/B0CS8V42H3/ref=ox_sc_act_title_6?smid=A1LK21T5CK0Y8M&psc=1 | to wrap it around the ceramic resistor |
 | condensator 10uf 25V | 3 | $7.29 | https://www.amazon.it/-/en/Aluminum-Electrolytic-Capacitor-25V-Microwave/dp/B0FDPWGWWJ/ref=sr_1_9?crid=C5BOM4U6KYXF&dib=eyJ2IjoiMSJ9.LSiuYq2FCh0egSiZCVXBDgtqf9YRCTDODsGoj1gyV6TElrz6s4esagkWBgiefzRJAuGFnkvvwxGyJs2YDObtWuDjz7T60MvbGR_hxPi1jN4JcUpgRRN37HkW_qJ7sHODQNGvibzaGK_W4DFvwFPmyR_azW77qsArORLo2YgN_yHKFh-rWc43EsYec8otTvvkiasBQ4wfymVjEPNe2Xu7K-jK0HUUxnrVwYNTO_mvWvFf-mO4lEYdYTu0oAr5MqE4Ytclr2J4mcEDzkZXTj1AB3bC-yykBzvX1E1-0aRBpWY.zjHfs2OkTKXnMhnPGOdG_Vhhd5duc5kQ1GFVzTE5KIA&dib_tag=se&keywords=condensatore+10uf+25v&qid=1792770669&s=industrial&sprefix=condensatore+10uf+25v%2Cindustrial%2C126&sr=1-9 | |
